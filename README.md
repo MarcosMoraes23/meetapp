@@ -1,4 +1,4 @@
-# gobarber-rocket
+# meetapp-rocket
 
 Application developed as study and research about node.js and auxiliar libraries
 
