@@ -1,0 +1,2 @@
+# meetapp
+MeetApp events aggregator
